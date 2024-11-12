@@ -1,5 +1,4 @@
 # Atividade Finalizada
+  Alterações feitas:
 
-## Alterações feitas:
-
-### Mudança no Header, Implementação de mais recursos e mais um status "Falhou"
+Mudança no Header, Implementação de mais recursos e mais um status "Falhou"
